@@ -5,7 +5,6 @@
 - 🔍 [Información del Taller](#🔍-información-del-taller)
 - 🎯 [Objetivo del Taller](#🎯-objetivo-del-taller)
 - 📋 [Requisitos](#📋-requisitos)
-- 📝 [Inscripción](#📝-inscripción)
 - 📚 [Programa](#📚-programa)
 - 💡 [Recursos](#💡-recursos)
 
@@ -89,3 +88,7 @@ Configuración previa de los programas a usar
 - Continuación del trabajo
 - demostración de aplicación
 - Preguntas Finales
+
+## 💡 Recursos:
+
+- Descarga de Vs Code, Editor de Unity y Pure Data: [https://drive.google.com/drive/folders/1FRf5oIArs92Jd6tI4z9d69jeMtu91Nnf?usp=drive_link]

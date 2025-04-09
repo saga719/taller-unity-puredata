@@ -11,8 +11,7 @@
 
 ## 🔍 Información del Taller
 
-- _Duración:_ 2 sesiones de 1:30hr
-- La fecha, hora, lugar y coste de cada iteración del taller son variables. Visita Generative Academy para conocer los detalles sobre la próxima sesión.
+- _Duración:_ 2 sesiones de 2:30hr
 - _Instructor:_ Joaquín Gutiérrez, Licenciado en Artes mención Composición Musical
 
 ## 🎯 Objetivo del Taller
@@ -23,14 +22,8 @@ Este taller tiene por objetivo integrar música generativa a una escena 3D inter
 
 - _Dispositivo:_ Laptop (Windows/Mac/Linux).
 - _Editor de Código:_ Visual Studio (Viene integrado con Unity3D).
-- _Softwares:_ Unity 3D y Pure Data, junto con los patches suministrados previamente.
+- _Softwares:_ Unity 3D y Pure Data. Esto será proporcionado por el instructor. Para Unity, se recomienda crear una cuenta previamente.
 - _Nivel:_ Si bien no se necesitan conocimientos previos, es deseable tener nociones básicas de programación.
-
-## 📝 Inscripción
-
-Para participar en este taller, sigue estos pasos:
-
-1. Completa el [Formulario de Inscripción]()
 
 # 📚 Programa
 
@@ -46,15 +39,15 @@ Configuración previa de los programas a usar
 - Lo Icónico y lo simbólico
 - La modularidad y la modulación
 
-### OOP; variables, funciones y clases (15m)
+### OOP; variables, funciones y clases (20m)
 
 - Recuento general de los principales parámetros de la programación orientada a objetos
 - Pure Data:
   - Demostración básica de patch pre-trabajado.
 
-### ☕ Receso (10 minutos – instarles a mirar el programa)
+### ☕ Receso (10 minutos)
 
-### Unity y su Funcionamiento: (1 Hr)
+### Unity y su Funcionamiento: (1:30 Hr)
 
 - Unity:
   - Interfaz de usuario
@@ -67,7 +60,7 @@ Configuración previa de los programas a usar
 
 ## _Clase N°2: Aplicación Guiada_
 
-### Demostración del funcionamiento de Patch (20m)
+### Demostración del funcionamiento de Patch (45m)
 
 - GameObjects
 - Componentes
@@ -80,18 +73,19 @@ Configuración previa de los programas a usar
   Ejemplo de Script que module componente Transform.
 - TroubleShooting
 
-### Taller Creativo: (40m)
+### Taller Creativo: (45m)
 
 - Construcción en clase de un módulo interactivo:
   - Unity: Componente Transform
   - Pure Data:
     - Modulación FM de osciladores
     - Modulación de envolvente de amplitud
-- TroubleShooting.
+- TroubleShooting
 
-### ☕ Receso (10 minutos – instarles a mirar el programa)
+### ☕ Receso (15 minutos)
 
-### Cont. Taller Creativo y Demostración Final (5m)
+### Cont. Taller Creativo y Demostraciones (10m)
 
 - Continuación del trabajo
+- demostración de aplicación
 - Preguntas Finales
